@@ -6,7 +6,6 @@ namespace BaltaCourse_Console_Dotnet_Calculator
     {
         static void Main(string[] args)
         {
-            Console.Clear();
         }
     }
 }
