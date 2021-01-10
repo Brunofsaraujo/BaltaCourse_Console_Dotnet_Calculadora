@@ -8,7 +8,6 @@ namespace BaltaCourse_Console_Dotnet_Calculator
         {
             Menu();
         }
-
         static void Menu()
         {
             Console.Clear();
